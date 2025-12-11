@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "X.gk的Blog",
-		"description": "欢迎来我的个人博客，我会持续地在这里发布我的学习日记~",
+		"description": "我会持续地在这里更新我的学习日记~",
 		"username": "X.gk"
 	},
 	"theme": {
@@ -42,23 +42,9 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
-			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
-		},
-		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "3331631570@qq.com",
 			"label": "",
 			"order": 1
 		}
